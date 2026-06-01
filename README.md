@@ -34,7 +34,7 @@ AI-powered exam preparation chatbot built using Python and Groq API.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/harshita-bansal-084286321?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: harshitabansal1409@gmail.com
 
 ---
