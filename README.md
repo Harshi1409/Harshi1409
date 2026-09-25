@@ -7,6 +7,7 @@
 ## 🛠 Skills
 
 - Python
+- Machine Learning
 - SQL
 - Power BI
 - Excel
@@ -25,17 +26,11 @@ Data Science project exploring the relationship between attendance and academic 
 ### AI Exam Chatbot
 AI-powered exam preparation chatbot built using Python and Groq API.
 
-## 📈 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Data Analytics Case Studies
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/harshita-bansal-084286321?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: harshitabansal1409@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshita-bansal-084286321/?isSelfProfile=true
+- Email: bansalharshita236@gmail.com
 
 ---
 ⭐ Always learning and building data-driven solutions.
